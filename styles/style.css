@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar, footer {
+    background-color: #1d2951 !important;
+}
+
+.form-box{
+    min-height: 180px;
+}
+
+.output{
+    min-height: 120px;
+}
+
+#footer-para{
+    line-height: 24px;
+}
